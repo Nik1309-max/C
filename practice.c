@@ -1,8 +1,13 @@
 #include <stdio.h>
 #include <stdlib.h>
-void main(){
-    int c,i[10];
-    int *ptr;
-    free(ptr);
-    return;
+struct ListNode{
+    int data;
+    struct ListNode *next;
+};
+int main(){
+    s
+    struct ListNode *newNode;
+    newNode = malloc(sizeof(struct ListNode));
+    newNode = START;
+    return 0;
 }
